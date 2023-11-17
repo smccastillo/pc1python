@@ -1,3 +1,2 @@
-a=5
-b=2
-print(a+b)
+nombre = input("Por favor ingrese su nombre: ")
+print("Hola "+nombre+"!")
